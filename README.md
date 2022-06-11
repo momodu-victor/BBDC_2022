@@ -3,6 +3,7 @@
 ## Task/Goal
 
 A block of missing frames has resulted from the absence of several consecutive frames in the appropriate files. The length, number, and placement of the missing frame components varies. There may be a difference in the amount of missing frame blocks between the video and motion capture data. 
+
 The task of sequence modelling is the focus of the Bremen Big Data Challenge 2022. It's all about correctly reconstructing missing data from movement sequences recorded with two separate modalities in detail.
 
 ## Data Background
